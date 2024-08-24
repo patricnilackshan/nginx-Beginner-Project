@@ -65,13 +65,13 @@ To stop the NGINX server, use the following command:
 The following APIs are configured and can be accessed through the NGINX server:
 
 ```text
-/
-/proxy
-/vegetables/
-/carbs
-/carbss
-/fruits/
-/colors
-/counter/[0-9]+
-/numbers/<word>
+127.0.0.1:80/
+127.0.0.1:80/proxy
+127.0.0.1:80/vegetables/
+127.0.0.1:80/carbs
+127.0.0.1:80/carbss
+127.0.0.1:80/fruits/
+127.0.0.1:80/colors
+127.0.0.1:80/counter/[0-9]+
+127.0.0.1:80/numbers/<word>
 ```
