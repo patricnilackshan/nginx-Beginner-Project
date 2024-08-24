@@ -45,7 +45,7 @@ Whenever you edit the configuration file, reload **NGINX** to apply the changes:
 To set up multiple slave servers for load balancing, navigate to the server directory and install the necessary dependencies:
 
 ```shell
-cd site/server
+cd nginx-Beginner-Project/server
 npm install
 npm run start
 ```
