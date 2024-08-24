@@ -14,7 +14,7 @@ Visit the [**NGINX** Official Website](https://nginx.org) to download the latest
 
 ### 2. Clone the Repository 📂
 
-Clone your [project repository](https://github.com/patricnilackshan/nginx-Beginner-Project/tree/main) inside the **nginx** folder.
+Clone your [project repository](https://github.com/patricnilackshan/nginx-Beginner-Project) inside the **nginx** folder.
 
 ### 3. Set the Document Root 📂
 
