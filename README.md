@@ -18,7 +18,7 @@ Clone your [project repository](https://github.com/patricnilackshan/nginx-Beginn
 
 ### 3. Set the Document Root 📂
 
-Before starting NGINX, set the $root_folder variable in your configuration file ( **nginx.conf** ) to point to the NGINX installed directory. For example:
+Before starting NGINX, set the $root_folder variable in your configuration file ( nginx-Beginner-Project/**nginx.conf** ) to point to the NGINX installed directory. For example:
 
 ```text
 set $root_folder "/usr/share/nginx/";
