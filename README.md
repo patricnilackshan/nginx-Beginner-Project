@@ -29,7 +29,7 @@ set $root_folder "/usr/share/nginx/";
 To start **NGINX** using your custom configuration file, run the following command:
 
 ```shell
-./nginx -c site/nginx.conf
+./nginx -c nginx-Beginner-Project/nginx.conf
 ```
 
 ### 5. Reload **NGINX** After Editing the Configuration 🔄
@@ -37,7 +37,7 @@ To start **NGINX** using your custom configuration file, run the following comma
 Whenever you edit the configuration file, reload **NGINX** to apply the changes:
 
 ```shell
-./nginx -c site/nginx.conf -s reload
+./nginx -c nginx-Beginner-Project/nginx.conf -s reload
 ```
 
 ### 6. Create Multiple Slave Servers and Test **NGINX** Load Balancer ⚖️
