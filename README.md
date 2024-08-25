@@ -75,3 +75,9 @@ The following APIs are configured and can be accessed through the NGINX server:
 127.0.0.1:80/counter/[0-9]+
 127.0.0.1:80/numbers/<word>
 ```
+
+<br>
+
+### © PATRIC NILACKSHAN (pnilackshan@gmail.com)
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=patricnilackshan.nginx-Beginner-Project" />
